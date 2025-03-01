@@ -9,6 +9,6 @@ public class deneme {
         System.out.println("Login Testi2");
 
         System.out.println("Sepet Teti Yazıldı Bitirildi 3 günlük kod yazıdlır");
-
+        System.out.println("Yeni Login Testi Yapıldı 7 gün uğraştım");
     }
 }
